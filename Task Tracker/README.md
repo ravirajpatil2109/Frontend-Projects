@@ -3,8 +3,6 @@
 ## Overview
 This is a simple **Task Tracker** application built using **JavaScript**. The application allows users to manage a to-do list by adding new tasks, marking them as completed, and deleting tasks. Completed tasks move to the bottom of the list with a strikethrough. Users can also unmark tasks to return them to the pending list.
 
-## Screenshot
-![Task Tracker Screenshot](https://github.com/user-attachments/assets/dd868d92-a4b4-44ef-8db1-7e55a187205e)
 
 ## Features
 - Add new tasks to the to-do list.
@@ -36,11 +34,13 @@ The `renderTasks` function updates the DOM whenever tasks are added, marked as c
 
 
 ## Future Enhancements
-
 - Add due dates and priority levels for tasks.
 - Implement a filter for viewing only completed or pending tasks.
 - Add task categories or tags.
 
-## Contributing
 
+## Screenshot
+![Task Tracker Screenshot](https://github.com/user-attachments/assets/dd868d92-a4b4-44ef-8db1-7e55a187205e)
+
+## Contributing
 Feel free to contribute to this project by opening a pull request or raising an issue.
